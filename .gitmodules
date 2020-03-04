@@ -78,3 +78,8 @@
 	url = https://github.com/hrbrmstr/cloc
 	shallow = true
 	registered = false
+[submodule "poweRlaw"]
+	path = poweRlaw
+	url = https://github.com/csgillespie/poweRlaw
+	shallow = true
+	registered = false
