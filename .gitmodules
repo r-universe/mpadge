@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "osmdata"]
 	path = osmdata
-	url = https://github.com/ropensci/omsdata
+	url = https://github.com/ropensci/osmdata
 	shallow = true
 	registered = true
 [submodule "osmplotr"]
@@ -36,5 +36,30 @@
 [submodule "geodist"]
 	path = geodist
 	url = https://github.com/hypertidy/geodist
+	shallow = true
+	registered = true
+[submodule "autotest"]
+	path = autotest
+	url = https://github.com/ropenscilabs/autotest
+	shallow = true
+	registered = true
+[submodule "pkgcheck"]
+	path = pkgcheck
+	url = https://github.com/ropenscilabs/pkgcheck
+	shallow = true
+	registered = true
+[submodule "srr"]
+	path = srr
+	url = https://github.com/ropenscilabs/srr
+	shallow = true
+	registered = true
+[submodule "pkgstats"]
+	path = pkgstats
+	url = https://github.com/ropenscilabs/pkgstats
+	shallow = true
+	registered = true
+[submodule "allcontributors"]
+	path = allcontributors
+	url = https://github.com/ropenscilabs/allcontributors
 	shallow = true
 	registered = true
