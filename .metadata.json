@@ -20,5 +20,9 @@
   {
     "package": "gtfsrouter",
     "oncran": true
+  },
+  {
+    "package": "geodist",
+    "oncran": true
   }
 ]

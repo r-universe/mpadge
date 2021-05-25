@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "osmdata"]
 	path = osmdata
-	url = https://github.com/ropensci/omsdataa
+	url = https://github.com/ropensci/omsdata
 	shallow = true
 	registered = true
 [submodule "osmplotr"]
@@ -20,7 +20,7 @@
 	registered = true
 [submodule "mapscanner"]
 	path = mapscanner
-	url = https://github.com/maelle/mapscanner
+	url = https://github.com/ropensci/mapscanner
 	shallow = true
 	registered = true
 [submodule "dodgr"]
@@ -31,5 +31,10 @@
 [submodule "gtfsrouter"]
 	path = gtfsrouter
 	url = https://github.com/atfutures/gtfs-router
+	shallow = true
+	registered = true
+[submodule "geodist"]
+	path = geodist
+	url = https://github.com/hypertidy/geodist
 	shallow = true
 	registered = true
