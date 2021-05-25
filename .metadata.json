@@ -1,0 +1,24 @@
+[
+  {
+    "package": "osmdata",
+    "oncran": false
+  },
+  {
+    "package": "osmplotr",
+    "oncran": true
+  },
+  {
+    "package": "bikedata"
+  },
+  {
+    "package": "mapscanner"
+  },
+  {
+    "package": "dodgr",
+    "oncran": true
+  },
+  {
+    "package": "gtfsrouter",
+    "oncran": true
+  }
+]

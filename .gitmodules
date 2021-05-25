@@ -1,5 +1,35 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/mpadge/universe
 	shallow = true
 	branch = HEAD
+[submodule "osmdata"]
+	path = osmdata
+	url = https://github.com/ropensci/omsdataa
+	shallow = true
+	registered = true
+[submodule "osmplotr"]
+	path = osmplotr
+	url = https://github.com/ropensci/osmplotr
+	shallow = true
+	registered = true
+[submodule "bikedata"]
+	path = bikedata
+	url = https://github.com/ropensci/bikedata
+	shallow = true
+	registered = true
+[submodule "mapscanner"]
+	path = mapscanner
+	url = https://github.com/maelle/mapscanner
+	shallow = true
+	registered = true
+[submodule "dodgr"]
+	path = dodgr
+	url = https://github.com/atfutures/dodgr
+	shallow = true
+	registered = true
+[submodule "gtfsrouter"]
+	path = gtfsrouter
+	url = https://github.com/atfutures/gtfs-router
+	shallow = true
+	registered = true
