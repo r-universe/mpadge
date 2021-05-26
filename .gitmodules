@@ -63,6 +63,16 @@
 	url = https://github.com/ropenscilabs/allcontributors
 	shallow = true
 	registered = true
+[submodule "paretoconv"]
+	path = paretoconv
+	url = https://github.com/mpadge/paretoconv
+	shallow = true
+	registered = true
+[submodule "spatialcluster"]
+	path = spatialcluster
+	url = https://github.com/mpadge/spatialcluster
+	shallow = true
+	registered = true
 [submodule "cloc"]
 	path = cloc
 	url = https://github.com/hrbrmstr/cloc

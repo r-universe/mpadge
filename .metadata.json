@@ -40,5 +40,11 @@
   {
     "package": "allcontributors",
     "oncran": true
+  },
+  {
+    "package": "paretoconv"
+  },
+  {
+    "package": "spatialcluster"
   }
 ]
