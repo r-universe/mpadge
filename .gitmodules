@@ -40,22 +40,22 @@
 	registered = true
 [submodule "autotest"]
 	path = autotest
-	url = https://github.com/ropenscilabs/autotest
+	url = https://github.com/ropensci-review-tools/autotest
 	shallow = true
 	registered = true
 [submodule "pkgcheck"]
 	path = pkgcheck
-	url = https://github.com/ropenscilabs/pkgcheck
+	url = https://github.com/ropensci-review-tools/pkgcheck
 	shallow = true
 	registered = true
 [submodule "srr"]
 	path = srr
-	url = https://github.com/ropenscilabs/srr
+	url = https://github.com/ropensci-review-tools/srr
 	shallow = true
 	registered = true
 [submodule "pkgstats"]
 	path = pkgstats
-	url = https://github.com/ropenscilabs/pkgstats
+	url = https://github.com/ropensci-review-tools/pkgstats
 	shallow = true
 	registered = true
 [submodule "allcontributors"]
