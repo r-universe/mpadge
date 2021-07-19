@@ -73,11 +73,6 @@
 	url = https://github.com/mpadge/spatialcluster
 	shallow = true
 	registered = true
-[submodule "cloc"]
-	path = cloc
-	url = https://github.com/hrbrmstr/cloc
-	shallow = true
-	registered = false
 [submodule "poweRlaw"]
 	path = poweRlaw
 	url = https://github.com/csgillespie/poweRlaw

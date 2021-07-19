@@ -1,11 +1,5 @@
 [
   {
-    "package": "cloc",
-    "url": "https://github.com/hrbrmstr/cloc",
-    "via": ["pkgcheck", "pkgstats"],
-    "from": "pkgcheck"
-  },
-  {
     "package": "pkgstats",
     "url": "https://github.com/ropensci-review-tools/pkgstats",
     "via": ["pkgcheck"],
