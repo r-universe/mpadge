@@ -1,5 +1,11 @@
 [
   {
+    "package": "osmdata",
+    "url": "https://github.com/ropensci/osmdata",
+    "via": ["dodgr"],
+    "from": "dodgr"
+  },
+  {
     "package": "pkgstats",
     "url": "https://github.com/ropensci-review-tools/pkgstats",
     "via": ["pkgcheck"],
