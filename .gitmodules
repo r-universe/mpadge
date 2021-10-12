@@ -43,11 +43,6 @@
 	url = https://github.com/ropensci-review-tools/autotest
 	shallow = true
 	registered = true
-[submodule "pkgcheck"]
-	path = pkgcheck
-	url = https://github.com/ropensci-review-tools/pkgcheck
-	shallow = true
-	registered = true
 [submodule "srr"]
 	path = srr
 	url = https://github.com/ropensci-review-tools/srr
@@ -61,11 +56,6 @@
 [submodule "allcontributors"]
 	path = allcontributors
 	url = https://github.com/ropenscilabs/allcontributors
-	shallow = true
-	registered = true
-[submodule "paretoconv"]
-	path = paretoconv
-	url = https://github.com/mpadge/paretoconv
 	shallow = true
 	registered = true
 [submodule "spatialcluster"]
