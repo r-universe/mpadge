@@ -12,7 +12,7 @@
   },
   {
     "package": "mapscanner",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "dodgr",
