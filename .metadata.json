@@ -11,7 +11,8 @@
     "package": "bikedata"
   },
   {
-    "package": "mapscanner"
+    "package": "mapscanner",
+    "oncran": false
   },
   {
     "package": "dodgr",
