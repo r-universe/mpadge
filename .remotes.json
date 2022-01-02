@@ -18,6 +18,12 @@
     "from": "orgmetrics"
   },
   {
+    "package": "dodgr",
+    "url": "https://github.com/ATFutures/dodgr",
+    "via": ["neighbourhoods"],
+    "from": "neighbourhoods"
+  },
+  {
     "package": "pkgcheck",
     "url": "https://github.com/ropensci-review-tools/pkgcheck",
     "via": ["orgmetrics", "repometrics"],
