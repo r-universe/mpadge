@@ -19,6 +19,12 @@
   },
   {
     "package": "dodgr",
+    "url": "https://github.com/atfutures/dodgr",
+    "via": ["moveability"],
+    "from": "moveability"
+  },
+  {
+    "package": "dodgr",
     "url": "https://github.com/ATFutures/dodgr",
     "via": ["neighbourhoods"],
     "from": "neighbourhoods"
