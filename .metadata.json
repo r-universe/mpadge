@@ -36,7 +36,8 @@
     "package": "srr"
   },
   {
-    "package": "pkgstats"
+    "package": "pkgstats",
+    "oncran": false
   },
   {
     "package": "allcontributors",
