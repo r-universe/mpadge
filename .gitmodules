@@ -68,6 +68,11 @@
 	url = https://github.com/mpadge/paretoconv
 	shallow = true
 	registered = true
+[submodule "typetracer"]
+	path = typetracer
+	url = https://github.com/mpadge/typetracer
+	shallow = true
+	registered = true
 [submodule "spatialcluster"]
 	path = spatialcluster
 	url = https://github.com/mpadge/spatialcluster

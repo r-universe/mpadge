@@ -47,6 +47,9 @@
     "package": "paretoconv"
   },
   {
+    "package": "typetracer"
+  },
+  {
     "package": "spatialcluster"
   }
 ]
