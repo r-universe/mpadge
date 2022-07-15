@@ -6,12 +6,6 @@
     "from": "autotest"
   },
   {
-    "package": "goodpractice",
-    "url": "https://github.com/MangoTheCat/goodpractice",
-    "via": ["pkgcheck"],
-    "from": "pkgcheck"
-  },
-  {
     "package": "pkgstats",
     "url": "https://github.com/ropensci-review-tools/pkgstats",
     "via": ["pkgcheck"],
