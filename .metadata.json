@@ -12,15 +12,15 @@
   },
   {
     "package": "mapscanner",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "dodgr",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "gtfsrouter",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "geodist",
