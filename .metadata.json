@@ -4,8 +4,7 @@
     "oncran": true
   },
   {
-    "package": "osmplotr",
-    "oncran": true
+    "package": "osmplotr"
   },
   {
     "package": "bikedata"
