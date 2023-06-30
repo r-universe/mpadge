@@ -1,85 +1,53 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/mpadge/mpadge.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "osmdata"]
 	path = osmdata
 	url = https://github.com/ropensci/osmdata
-	shallow = true
-	registered = true
 [submodule "osmplotr"]
 	path = osmplotr
 	url = https://github.com/ropensci/osmplotr
-	shallow = true
-	registered = true
 [submodule "bikedata"]
 	path = bikedata
 	url = https://github.com/ropensci/bikedata
-	shallow = true
-	registered = true
 [submodule "mapscanner"]
 	path = mapscanner
 	url = https://github.com/ropensci/mapscanner
-	shallow = true
-	registered = true
 [submodule "dodgr"]
 	path = dodgr
 	url = https://github.com/atfutures/dodgr
-	shallow = true
-	registered = true
 [submodule "gtfsrouter"]
 	path = gtfsrouter
 	url = https://github.com/atfutures/gtfs-router
-	shallow = true
-	registered = true
 [submodule "geodist"]
 	path = geodist
 	url = https://github.com/hypertidy/geodist
-	shallow = true
-	registered = true
 [submodule "autotest"]
 	path = autotest
 	url = https://github.com/ropensci-review-tools/autotest
-	shallow = true
-	registered = true
 [submodule "pkgcheck"]
 	path = pkgcheck
 	url = https://github.com/ropensci-review-tools/pkgcheck
-	shallow = true
-	registered = true
 [submodule "srr"]
 	path = srr
 	url = https://github.com/ropensci-review-tools/srr
-	shallow = true
-	registered = true
 [submodule "pkgstats"]
 	path = pkgstats
 	url = https://github.com/ropensci-review-tools/pkgstats
-	shallow = true
-	registered = true
 [submodule "allcontributors"]
 	path = allcontributors
 	url = https://github.com/ropenscilabs/allcontributors
-	shallow = true
-	registered = true
 [submodule "paretoconv"]
 	path = paretoconv
 	url = https://github.com/mpadge/paretoconv
-	shallow = true
-	registered = true
 [submodule "typetracer"]
 	path = typetracer
 	url = https://github.com/mpadge/typetracer
-	shallow = true
-	registered = true
 [submodule "spatialcluster"]
 	path = spatialcluster
 	url = https://github.com/mpadge/spatialcluster
-	shallow = true
-	registered = true
 [submodule "poweRlaw"]
 	path = poweRlaw
 	url = https://github.com/csgillespie/poweRlaw
-	shallow = true
 	registered = false
