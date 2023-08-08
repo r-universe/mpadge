@@ -2,52 +2,52 @@
 	path = .registry
 	url = https://github.com/mpadge/mpadge.r-universe.dev
 	branch = HEAD
+[submodule "allcontributors"]
+	path = allcontributors
+	url = https://github.com/ropenscilabs/allcontributors
+[submodule "autotest"]
+	path = autotest
+	url = https://github.com/ropensci-review-tools/autotest
+[submodule "bikedata"]
+	path = bikedata
+	url = https://github.com/ropensci/bikedata
+[submodule "dodgr"]
+	path = dodgr
+	url = https://github.com/atfutures/dodgr
+[submodule "geodist"]
+	path = geodist
+	url = https://github.com/hypertidy/geodist
+[submodule "gtfsrouter"]
+	path = gtfsrouter
+	url = https://github.com/atfutures/gtfs-router
+[submodule "mapscanner"]
+	path = mapscanner
+	url = https://github.com/ropensci/mapscanner
 [submodule "osmdata"]
 	path = osmdata
 	url = https://github.com/ropensci/osmdata
 [submodule "osmplotr"]
 	path = osmplotr
 	url = https://github.com/ropensci/osmplotr
-[submodule "bikedata"]
-	path = bikedata
-	url = https://github.com/ropensci/bikedata
-[submodule "mapscanner"]
-	path = mapscanner
-	url = https://github.com/ropensci/mapscanner
-[submodule "dodgr"]
-	path = dodgr
-	url = https://github.com/atfutures/dodgr
-[submodule "gtfsrouter"]
-	path = gtfsrouter
-	url = https://github.com/atfutures/gtfs-router
-[submodule "geodist"]
-	path = geodist
-	url = https://github.com/hypertidy/geodist
-[submodule "autotest"]
-	path = autotest
-	url = https://github.com/ropensci-review-tools/autotest
-[submodule "pkgcheck"]
-	path = pkgcheck
-	url = https://github.com/ropensci-review-tools/pkgcheck
-[submodule "srr"]
-	path = srr
-	url = https://github.com/ropensci-review-tools/srr
-[submodule "pkgstats"]
-	path = pkgstats
-	url = https://github.com/ropensci-review-tools/pkgstats
-[submodule "allcontributors"]
-	path = allcontributors
-	url = https://github.com/ropenscilabs/allcontributors
 [submodule "paretoconv"]
 	path = paretoconv
 	url = https://github.com/mpadge/paretoconv
-[submodule "typetracer"]
-	path = typetracer
-	url = https://github.com/mpadge/typetracer
-[submodule "spatialcluster"]
-	path = spatialcluster
-	url = https://github.com/mpadge/spatialcluster
+[submodule "pkgcheck"]
+	path = pkgcheck
+	url = https://github.com/ropensci-review-tools/pkgcheck
+[submodule "pkgstats"]
+	path = pkgstats
+	url = https://github.com/ropensci-review-tools/pkgstats
 [submodule "poweRlaw"]
 	path = poweRlaw
 	url = https://github.com/csgillespie/poweRlaw
 	registered = false
+[submodule "spatialcluster"]
+	path = spatialcluster
+	url = https://github.com/mpadge/spatialcluster
+[submodule "srr"]
+	path = srr
+	url = https://github.com/ropensci-review-tools/srr
+[submodule "typetracer"]
+	path = typetracer
+	url = https://github.com/mpadge/typetracer
