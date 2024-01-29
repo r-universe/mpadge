@@ -13,13 +13,13 @@
 	url = https://github.com/ropensci/bikedata
 [submodule "dodgr"]
 	path = dodgr
-	url = https://github.com/atfutures/dodgr
+	url = https://github.com/UrbanAnalyst/dodgr
 [submodule "geodist"]
 	path = geodist
 	url = https://github.com/hypertidy/geodist
 [submodule "gtfsrouter"]
 	path = gtfsrouter
-	url = https://github.com/atfutures/gtfs-router
+	url = https://github.com/UrbanAnalyst/gtfs-router
 [submodule "mapscanner"]
 	path = mapscanner
 	url = https://github.com/ropensci/mapscanner
