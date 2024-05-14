@@ -17,6 +17,10 @@
 [submodule "geodist"]
 	path = geodist
 	url = https://github.com/hypertidy/geodist
+[submodule "goodpractice"]
+	path = goodpractice
+	url = https://github.com/mangothecat/goodpractice
+	registered = false
 [submodule "gtfsrouter"]
 	path = gtfsrouter
 	url = https://github.com/UrbanAnalyst/gtfs-router
