@@ -1,11 +1,5 @@
 [
   {
-    "package": "geodist",
-    "url": "https://github.com/hypertidy/geodist",
-    "via": ["dodgr"],
-    "from": "dodgr"
-  },
-  {
     "package": "goodpractice",
     "url": "https://github.com/mangothecat/goodpractice",
     "via": ["pkgcheck"],
