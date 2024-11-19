@@ -19,7 +19,7 @@
 	url = https://github.com/hypertidy/geodist
 [submodule "goodpractice"]
 	path = goodpractice
-	url = https://github.com/mangothecat/goodpractice
+	url = https://github.com/ropensci-review-tools/goodpractice
 	registered = false
 [submodule "gtfsrouter"]
 	path = gtfsrouter
