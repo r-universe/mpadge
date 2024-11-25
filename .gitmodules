@@ -23,7 +23,7 @@
 	registered = false
 [submodule "gtfsrouter"]
 	path = gtfsrouter
-	url = https://github.com/UrbanAnalyst/gtfs-router
+	url = https://github.com/UrbanAnalyst/gtfsrouter
 [submodule "mapscanner"]
 	path = mapscanner
 	url = https://github.com/ropensci/mapscanner
