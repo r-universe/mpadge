@@ -18,6 +18,10 @@
 [submodule "dashboard"]
 	path = dashboard
 	url = https://github.com/ropensci-review-tools/dashboard
+[submodule "deposits"]
+	path = deposits
+	url = https://github.com/ropenscilabs/deposits
+	registered = false
 [submodule "dodgr"]
 	path = dodgr
 	url = https://github.com/UrbanAnalyst/dodgr
