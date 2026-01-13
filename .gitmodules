@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/mpadge/mpadge.r-universe.dev
 	branch = HEAD
+[submodule "airtabler"]
+	path = airtabler
+	url = https://github.com/bergant/airtabler
+	registered = false
 [submodule "allcontributors"]
 	path = allcontributors
 	url = https://github.com/ropenscilabs/allcontributors

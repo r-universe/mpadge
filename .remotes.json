@@ -1,5 +1,11 @@
 [
   {
+    "package": "airtabler",
+    "url": "https://github.com/bergant/airtabler",
+    "via": ["dashboard"],
+    "from": "dashboard"
+  },
+  {
     "package": "pkgstats",
     "url": "https://github.com/ropensci-review-tools/pkgstats",
     "via": ["pkgcheck"],
