@@ -24,10 +24,22 @@
     "from": "orgmetrics"
   },
   {
+    "package": "pkgcheck",
+    "url": "https://github.com/ropensci-review-tools/pkgcheck",
+    "via": ["repometrics"],
+    "from": "repometrics"
+  },
+  {
     "package": "pkgmatch",
     "url": "https://github.com/ropensci-review-tools/pkgmatch",
     "via": ["orgmetrics"],
     "from": "orgmetrics"
+  },
+  {
+    "package": "pkgmatch",
+    "url": "https://github.com/ropensci-review-tools/pkgmatch",
+    "via": ["repometrics"],
+    "from": "repometrics"
   },
   {
     "package": "pkgstats",
@@ -40,6 +52,12 @@
     "url": "https://github.com/ropensci-review-tools/pkgstats",
     "via": ["pkgcheck"],
     "from": "pkgcheck"
+  },
+  {
+    "package": "pkgstats",
+    "url": "https://github.com/ropensci-review-tools/pkgstats",
+    "via": ["repometrics", "pkgcheck"],
+    "from": "repometrics"
   },
   {
     "package": "poweRlaw",
@@ -64,5 +82,11 @@
     "url": "https://github.com/ropensci-review-tools/srr",
     "via": ["pkgcheck"],
     "from": "pkgcheck"
+  },
+  {
+    "package": "srr",
+    "url": "https://github.com/ropensci-review-tools/srr",
+    "via": ["repometrics", "pkgcheck"],
+    "from": "repometrics"
   }
 ]
