@@ -11,18 +11,45 @@
 [submodule "bikedata"]
 	path = bikedata
 	url = https://github.com/ropensci/bikedata
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/ropensci-review-tools/dashboard
 [submodule "dodgr"]
 	path = dodgr
 	url = https://github.com/UrbanAnalyst/dodgr
+[submodule "genderconciousrouting"]
+	path = genderconciousrouting
+	url = https://github.com/mpadge/gender-conscious-routing
 [submodule "geodist"]
 	path = geodist
 	url = https://github.com/hypertidy/geodist
+[submodule "goodpractice"]
+	path = goodpractice
+	url = https://github.com/ropensci-review-tools/goodpractice
 [submodule "gtfsrouter"]
 	path = gtfsrouter
 	url = https://github.com/UrbanAnalyst/gtfsrouter
+[submodule "hotspotr"]
+	path = hotspotr
+	url = https://github.com/mpadge/hotspotr
+[submodule "libfuzzerr"]
+	path = libfuzzerr
+	url = https://github.com/mpadge/libfuzzerr
 [submodule "mapscanner"]
 	path = mapscanner
 	url = https://github.com/ropensci/mapscanner
+[submodule "moveability"]
+	path = moveability
+	url = https://github.com/moveability/moveability
+[submodule "neighbourhoods"]
+	path = neighbourhoods
+	url = https://github.com/atfutures-labs/neighbourhoods
+[submodule "nyped"]
+	path = nyped
+	url = https://github.com/ATFutures/nyped
+[submodule "orgmetrics"]
+	path = orgmetrics
+	url = https://github.com/ropensci-review-tools/orgmetrics
 [submodule "osmdata"]
 	path = osmdata
 	url = https://github.com/ropensci/osmdata
@@ -35,6 +62,9 @@
 [submodule "pkgcheck"]
 	path = pkgcheck
 	url = https://github.com/ropensci-review-tools/pkgcheck
+[submodule "pkgmatch"]
+	path = pkgmatch
+	url = https://github.com/ropensci-review-tools/pkgmatch
 [submodule "pkgstats"]
 	path = pkgstats
 	url = https://github.com/ropensci-review-tools/pkgstats
@@ -42,12 +72,27 @@
 	path = poweRlaw
 	url = https://github.com/csgillespie/poweRlaw
 	registered = false
+[submodule "repometrics"]
+	path = repometrics
+	url = https://github.com/ropensci-review-tools/repometrics
+[submodule "roreviewapi"]
+	path = roreviewapi
+	url = https://github.com/ropensci-review-tools/roreviewapi
+[submodule "sequential-modificaitons"]
+	path = sequential-modificaitons
+	url = https://github.com/ATFutures/sequential-modifications
+[submodule "spaceout"]
+	path = spaceout
+	url = https://github.com/ropensci-review-tools/spaceout
 [submodule "spatialcluster"]
 	path = spatialcluster
 	url = https://github.com/mpadge/spatialcluster
 [submodule "srr"]
 	path = srr
 	url = https://github.com/ropensci-review-tools/srr
+[submodule "tnorm"]
+	path = tnorm
+	url = https://github.com/mpadge/tnorm
 [submodule "typetracer"]
 	path = typetracer
 	url = https://github.com/mpadge/typetracer
