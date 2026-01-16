@@ -89,9 +89,6 @@
 [submodule "roreviewapi"]
 	path = roreviewapi
 	url = https://github.com/ropensci-review-tools/roreviewapi
-[submodule "sequentialmodifications"]
-	path = sequentialmodifications
-	url = https://github.com/ATFutures/sequential-modifications
 [submodule "spaceout"]
 	path = spaceout
 	url = https://github.com/ropensci-review-tools/spaceout
