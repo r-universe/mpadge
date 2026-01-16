@@ -25,8 +25,8 @@
 [submodule "dodgr"]
 	path = dodgr
 	url = https://github.com/UrbanAnalyst/dodgr
-[submodule "genderconciousrouting"]
-	path = genderconciousrouting
+[submodule "genderconsciousrouting"]
+	path = genderconsciousrouting
 	url = https://github.com/mpadge/gender-conscious-routing
 [submodule "geodist"]
 	path = geodist
@@ -80,14 +80,17 @@
 	path = poweRlaw
 	url = https://github.com/csgillespie/poweRlaw
 	registered = false
+[submodule "r2readthedocs"]
+	path = r2readthedocs
+	url = https://github.com/ropenscilabs/r2readthedocs
 [submodule "repometrics"]
 	path = repometrics
 	url = https://github.com/ropensci-review-tools/repometrics
 [submodule "roreviewapi"]
 	path = roreviewapi
 	url = https://github.com/ropensci-review-tools/roreviewapi
-[submodule "sequential-modificaitons"]
-	path = sequential-modificaitons
+[submodule "sequentialmodifications"]
+	path = sequentialmodifications
 	url = https://github.com/ATFutures/sequential-modifications
 [submodule "spaceout"]
 	path = spaceout
