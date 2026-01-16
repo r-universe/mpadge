@@ -30,6 +30,12 @@
     "from": "repometrics"
   },
   {
+    "package": "pkgcheck",
+    "url": "https://github.com/ropensci-review-tools/pkgcheck",
+    "via": ["roreviewapi"],
+    "from": "roreviewapi"
+  },
+  {
     "package": "pkgmatch",
     "url": "https://github.com/ropensci-review-tools/pkgmatch",
     "via": ["orgmetrics"],
@@ -60,6 +66,12 @@
     "from": "repometrics"
   },
   {
+    "package": "pkgstats",
+    "url": "https://github.com/ropensci-review-tools/pkgstats",
+    "via": ["roreviewapi", "pkgcheck"],
+    "from": "roreviewapi"
+  },
+  {
     "package": "poweRlaw",
     "url": "https://github.com/csgillespie/poweRlaw",
     "via": ["paretoconv"],
@@ -88,5 +100,11 @@
     "url": "https://github.com/ropensci-review-tools/srr",
     "via": ["repometrics", "pkgcheck"],
     "from": "repometrics"
+  },
+  {
+    "package": "srr",
+    "url": "https://github.com/ropensci-review-tools/srr",
+    "via": ["roreviewapi", "pkgcheck"],
+    "from": "roreviewapi"
   }
 ]
