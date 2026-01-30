@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/mpadge/mpadge.r-universe.dev
 	branch = HEAD
-[submodule "airtabler"]
-	path = airtabler
-	url = https://github.com/bergant/airtabler
-	registered = false
 [submodule "allcontributors"]
 	path = allcontributors
 	url = https://github.com/ropenscilabs/allcontributors
@@ -18,10 +14,6 @@
 [submodule "dashboard"]
 	path = dashboard
 	url = https://github.com/ropensci-review-tools/dashboard
-[submodule "deposits"]
-	path = deposits
-	url = https://github.com/ropenscilabs/deposits
-	registered = false
 [submodule "dodgr"]
 	path = dodgr
 	url = https://github.com/UrbanAnalyst/dodgr
@@ -76,10 +68,6 @@
 [submodule "pkgstats"]
 	path = pkgstats
 	url = https://github.com/ropensci-review-tools/pkgstats
-[submodule "poweRlaw"]
-	path = poweRlaw
-	url = https://github.com/csgillespie/poweRlaw
-	registered = false
 [submodule "r2readthedocs"]
 	path = r2readthedocs
 	url = https://github.com/ropenscilabs/r2readthedocs
