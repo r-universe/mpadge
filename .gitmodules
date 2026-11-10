@@ -7,7 +7,7 @@
 	url = https://github.com/ropenscilabs/allcontributors
 [submodule "autotest"]
 	path = autotest
-	url = https://github.com/ropensci-review-tools/autotest
+	url = https://github.com/mpadge/autotest
 [submodule "bikedata"]
 	path = bikedata
 	url = https://github.com/ropensci/bikedata
@@ -32,9 +32,6 @@
 [submodule "hotspotr"]
 	path = hotspotr
 	url = https://github.com/mpadge/hotspotr
-[submodule "libfuzzerr"]
-	path = libfuzzerr
-	url = https://github.com/mpadge/libfuzzerr
 [submodule "mapscanner"]
 	path = mapscanner
 	url = https://github.com/ropensci/mapscanner
@@ -43,7 +40,7 @@
 	url = https://github.com/moveability/moveability
 [submodule "neighbourhoods"]
 	path = neighbourhoods
-	url = https://github.com/atfutures-labs/neighbourhoods
+	url = https://github.com/UrbanAnalyst/neighbourhoods
 [submodule "nyped"]
 	path = nyped
 	url = https://github.com/ATFutures/nyped
@@ -79,10 +76,10 @@
 	url = https://github.com/ropensci-review-tools/roreviewapi
 [submodule "spaceout"]
 	path = spaceout
-	url = https://github.com/ropensci-review-tools/spaceout
+	url = https://github.com/mpadge/spaceout
 [submodule "spatialcluster"]
 	path = spatialcluster
-	url = https://github.com/mpadge/spatialcluster
+	url = https://github.com/UrbanAnalyst/spatialcluster
 [submodule "srr"]
 	path = srr
 	url = https://github.com/ropensci-review-tools/srr
